@@ -20,7 +20,7 @@ FALE acts as an efficient, user friendly, comprehensible and reliable first-stag
     └── ...                     # README, requirements.txt, gitignore
     
 ## Requirements
-All experiments were run on the [Anaconda](https://www.anaconda.com/) platform using python version 3.9.16. To avoid bugs due to incompatible package versions, we have exported the [txt file](requirements.txt) for the conda environment on which we worked.
+FALE uses python version 3.9.16. To avoid bugs due to incompatible package versions, we have exported the [txt file](requirements.txt) for the conda environment on which we worked.
 
 To create a conda environment with the same configuration, run:
 
