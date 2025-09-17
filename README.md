@@ -1,4 +1,4 @@
-# FALE
+# FALE Fairness Aware ALE Plots
 
 ![FALE Overview](examples/age.png)
 
