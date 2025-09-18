@@ -25,7 +25,7 @@ FALE uses python version 3.9.16. To avoid bugs due to incompatible package versi
 To create a conda environment with the same configuration, run:
 
 ```setup
-conda create -n fale python=3.9.16
+conda create -n fale python==3.9.16
 ```
 
 then activate it with
