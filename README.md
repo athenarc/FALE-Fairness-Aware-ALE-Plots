@@ -47,6 +47,7 @@ Additionally, if you wish to run the example notebook you should run the followi
 ```bash
 python -m ipykernel install --user --name=fale --display-name "fale env"
 jupyter notebook
+```
 
 ## References
 
